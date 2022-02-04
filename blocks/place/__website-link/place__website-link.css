@@ -1,4 +1,4 @@
-.place__website_link {
+.place__website-link {
     color: white;
     font-weight: normal;
     font-style: normal;
@@ -6,6 +6,6 @@
     line-height: 22px;
 }
 
-.place__website_link:hover {
+.place__website-link:hover {
     opacity: 0.8;
 }
