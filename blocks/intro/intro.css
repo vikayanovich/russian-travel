@@ -8,7 +8,7 @@
 
     .intro {
         max-width: 984px;
-        max-height: 720px;
+        min-height: 429px;
     }
 }
 
@@ -17,7 +17,7 @@
     .intro {
         max-width: calc(100% - 148px);
         margin-right: 0;
-        max-height: 720px;
+        
     }
 }
 

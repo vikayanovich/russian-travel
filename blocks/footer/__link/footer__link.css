@@ -1,5 +1,5 @@
 .footer__link {
-    padding-left: 18px;
+    
     text-decoration: none;
     color: white;
     font-weight: 400;
@@ -13,20 +13,18 @@
     opacity: 0.8;
 }
 
-.footer__link:nth-of-type(1) {
-    padding-left: 0;
-}
-
 @media screen and (min-width: 426px) and (max-width: 768px) {
 
     .footer__link {
-        padding: 0;
+        margin: 0;
     }
 }
 
 @media screen and (max-width: 425px) {
 
     .footer__link {
-        padding: 0;
+        margin: 0;
+        font-size: 24px;
+        line-height: 24px;
     }
 }

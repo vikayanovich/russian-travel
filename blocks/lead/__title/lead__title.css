@@ -11,19 +11,17 @@
 @media screen and (min-width: 426px) and (max-width: 768px) {
 
     .lead__title {
-       font-size: 40px;
-       line-height: 44px;
-       margin: auto;
-       max-width: calc(100% - 32px);
+       max-width: calc(100% - 48px);
+       font-size: 13vw;
+       line-height: 104%;
     }
 }
 
 @media screen and (max-width: 425px) {
 
     .lead__title {
-        font-size: 30px;
-        line-height: 34px;
-        margin: auto;
+        font-size: 12.5vw;
+        line-height: 110%;
         max-width: calc(100% - 32px);
         
     }

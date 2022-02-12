@@ -16,7 +16,7 @@
 
     .lead {
         max-width: calc(100% - 96px);
-        margin: auto;
+        
     }
 }
 
@@ -24,7 +24,7 @@
 
     .lead {
         max-width: 100%;
-        margin: auto;
+        
     }
 }
 
