@@ -5,6 +5,12 @@
     padding-top: 92px;
 }
 
+.place:first-of-type {
+    padding-top: 0;
+}
+
+
+
 @media screen and (min-width: 1025px) and (max-width: 1280px) {
 
     .place {
@@ -28,7 +34,8 @@
     .place {
         
         grid-template-columns: repeat(2, 1fr);
-        gap: 28px;
+        gap: 48px 28px;
+        padding-top: 73px;
     }
 }
 

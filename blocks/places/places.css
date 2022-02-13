@@ -18,11 +18,15 @@
     }
 }
 
+.places {
+    padding-top: 92px;
+}
+
 @media screen and (min-width: 426px) and (max-width: 768px) {
 
     .places {
         max-width: calc(100% - 48px);
-        
+        padding-top: 88px;
     }
 }
 
@@ -30,5 +34,6 @@
 
     .places {
         width: 100%;
+        padding-top: 64px;
     }
 }

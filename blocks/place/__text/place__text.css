@@ -5,13 +5,7 @@
     line-height: 29.34px;
 }
 
-@media screen and (min-width: 426px) and (max-width: 768px) {
 
-    .place__text {
-        padding-left: 24px;
-        padding-right: 24px;
-    }
-}
 
 @media screen and (max-width: 425px) {
 

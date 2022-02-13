@@ -5,13 +5,15 @@
     line-height: 76px;
     align-self: end;
     margin: 0;
+    
 }
+
 
 @media screen and (min-width: 426px) and (max-width: 768px) { 
 
     .place__title {
         max-width: 288px;
-        font-size: 6vw;
+        font-size: 5.5vw;
         line-height: 110%;
     }
 }
