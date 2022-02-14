@@ -41,5 +41,6 @@
         grid-template-columns: 1fr;
         max-width: calc(100% - 32px);
         padding-top: 64px;
+        gap: 12px;
     }
 }

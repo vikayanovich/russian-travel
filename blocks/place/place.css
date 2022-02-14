@@ -33,7 +33,7 @@
 
     .place {
         
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: minmax(150px, 340px) minmax(150px, 352px);
         gap: 48px 28px;
         padding-top: 73px;
     }

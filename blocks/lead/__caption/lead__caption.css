@@ -19,6 +19,8 @@
     .lead__caption {
         padding-left: 16px;
         font-size: 3vw;
-        padding-top: 0;
+        padding-top: 4px;
+        line-height: 140%;
+        letter-spacing: 1.8px;
     }
 }
