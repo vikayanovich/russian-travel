@@ -20,5 +20,6 @@
     .place__paragraph {
         font-size: 16px;
         line-height: 26.08px;
+        padding-top: 25px;
     }
 }
